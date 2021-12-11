@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+*.4coder
+runCtrl.sh
+main
